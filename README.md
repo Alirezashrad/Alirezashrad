@@ -1,0 +1,2 @@
+- I'm Ali and I work on Material Science for Energy Storage systems like fuel cells and batteries.
+- I am focusing on ML to simulate the electronic configuration of semiconductors and metals. I like to collaborate with people who are interested and motivated to work with us on these kinds of projects.
